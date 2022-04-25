@@ -32,7 +32,7 @@ def inflation_rate():
         else:
             print('Your input need to be(Y/N)! Program start runing again.')
 
-    return 'Wrong input lead to breaking program. Try again!'
+    return 'Program done!'
 
 
 print("**" * 25)
